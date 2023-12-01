@@ -1,0 +1,6 @@
+flask
+pinecone-client
+langchain
+openai
+tiktoken
+python-dotenv

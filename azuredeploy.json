@@ -1,0 +1,15 @@
+{
+  "appServicePlan": {
+    "name": "ASP-JarvisGPT-89fe (B1: 1)",
+    "resourceGroup": "JarvisGPT"
+  },
+  "webApp": {
+    "name": "apimsep",
+    "deploymentSlot": "Production",
+    "siteConfig": {
+      "appSettings": {
+        "FLASK_APP": "main.py"
+      }
+    }
+  }
+}
